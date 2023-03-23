@@ -1,0 +1,77 @@
+.blinking-cursor {
+    font-weight: 100;
+    font-size: 30px;
+    color: #ffffff;
+    -webkit-animation: 1s blink step-end infinite;
+    -moz-animation: 1s blink step-end infinite;
+    -ms-animation: 1s blink step-end infinite;
+    -o-animation: 1s blink step-end infinite;
+    animation: 1s blink step-end infinite;
+  }
+  
+  @keyframes "blink" {
+    from, to {
+      color: transparent;
+    }
+    50% {
+      color: #111;
+    }
+  }
+  
+  @-moz-keyframes blink {
+    from, to {
+      color: transparent;
+    }
+    50% {
+      color: rgb(255, 255, 255);
+    }
+  }
+  
+  @-webkit-keyframes "blink" {
+    from, to {
+      color: ;
+    }
+    50% {
+      color: #111;
+    }
+  }
+  
+  @-ms-keyframes "blink" {
+    from, to {
+      color: transparent;
+    }
+    50% {
+      color: white;
+    }
+  }
+  
+  @-o-keyframes "blink" {
+    from, to {
+      color: transparent;
+    }
+    50% {
+      color: white;
+    }
+  }
+  .auto-typed {
+    font-size: 40px;
+  }
+  .fa-5x {
+    color: #537FE7;
+    padding: 0.5rem;
+  }
+  .card-header{
+    text-align: center;
+  }
+  .card-body ul li{
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: center;
+    text-align: center;
+    padding-left: 0px;
+    margin-left: 0%;
+  }
+.footer {
+    justify-content: center;
+    text-align: center;
+}
