@@ -196,11 +196,11 @@ body {
 .flex-child {
   flex: 1;
 
-}  
+}
 
 .flex-child:first-child {
   margin-right: px;
-} 
+}
 
 #infocontainer {
   /* background-color: aqua; */
@@ -228,3 +228,53 @@ body {
 
 
 }
+
+form div div{
+  background-color: #1C1C1E;
+  color: #ffffff;
+  border-radius: 25px;
+
+}
+
+ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#connect{
+  text-align: center;
+  
+}
+
+#connect h2{
+  color: #0275d8;
+}
+
+#connect h3{
+  color: #0275d8;
+}
+
+.fixedchat{
+justify-content: right;
+text-align: right;
+padding-right: px
+;
+color: #0275d8;
+
+}
+
+
+
+.open-button {
+  background-color: transparent;
+  /* color: transparent; */
+  /* padding: 16px 20px; */
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+

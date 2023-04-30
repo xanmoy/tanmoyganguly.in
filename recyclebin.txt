@@ -474,3 +474,220 @@ Icon Divider
 
         </div>
         </section>
+
+
+                        <!-- Projects  Item 2-->
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
+                        <div
+                            class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <div class="portfolio-item-caption-content text-center text-white"><i
+                                    class="fas fa-plus fa-3x"></i></div>
+                        </div>
+                        <!-- <img class="img-fluid" src="" alt="..." /> -->
+                    </div>
+                </div>
+                <!-- Projects  Item 3-->
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
+                        <div
+                            class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <div class="portfolio-item-caption-content text-center text-white"><i
+                                    class="fas fa-plus fa-3x"></i></div>
+                        </div>
+                        <!-- <img class="img-fluid" src="" alt="..." /> -->
+                    </div>
+                </div>
+
+
+                 <!-- <div class="footer-widget-2 nav flex-column">
+                        <aside id="block-9" class="widget inner-padding widget_block">
+                            <h2 class="wp-block-heading" style="text-transform:uppercase">Contact Info</h2>
+                        </aside>
+                        <aside id="block-10" class="widget inner-padding widget_block widget_text">
+                            <p><strong>Academic Communication<br></strong>
+                                <a href="mailto:tanmoygangulyofficial@outlook.com">tanmoygangulyofficial@outlook.com</a><br><br><strong>Media
+                                    Inquires<br></strong>
+                                <a
+                                    href="mailto:xanmoy@outlook.com">xanmoy@outlook.com</a><br><br><strong>Work<br></strong>
+                                <a href="https://tanmoyganguly.in/index.php/contact/">See
+                                    Contact Page</a>
+                            </p>
+                        </aside>
+                    </div> -->
+
+
+                                        <!-- <div class="footer-widget-3 nav flex-column">
+                        <aside id="block-11" class="widget inner-padding widget_block">
+                            <h2 class="wp-block-heading" style="text-transform:uppercase">Quick Links</h2>
+                        </aside>
+                        <aside id="nav_menu-2" class="widget inner-padding widget_nav_menu">
+                            <div class="menu-footer-menu-container">
+                                <ul id="menu-footer-menu nav flex-column" class="menu">
+                                    <li id="nav-item mb-2"
+                                        class="nav-item mb-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-52">
+                                        <a href="https://calnewport.com/scholarship/">Scholarship</a></li>
+                                    <li id="nav-item mb-2"
+                                        class="nav-item mb-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-53">
+                                        <a href="https://calnewport.com/writing/">Writing</a></li>
+                                    <li id="nav-item mb-2"
+                                        class="nav-item mb-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-48">
+                                        <a href="https://calnewport.com/blog/">Essays</a></li>
+                                    <li id="mennav-item mb-2"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11971">
+                                        <a href="https://calnewport.com/press/">Press</a>
+                                    </li>
+                                    <li id="nav-item mb-2"
+                                        class="nav-item mb-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-47">
+                                        <a href="https://calnewport.com/contact/">Contact</a></li>
+                                    <li id="nav-item mb-2"
+                                        class="nav-item mb-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-49">
+                                        <a href="https://calnewport.com/media-kit/">Media Kit</a></li>
+                                    <li id="nav-item mb-2"
+                                        class="nav-item mb-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-50">
+                                        <a href="https://calnewport.com/podcasts/">Podcast/Videos</a></li>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div> -->
+
+
+                     <section class="page-section text-white mb-0" id="skills" style="background-color: #111;">
+        <div class="container">
+            <div class="container">
+                <footer class="row row-cols-5 py-5 my-5 border-top">
+                    <div class="col">
+                        <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
+                            <svg class="bi me-2" width="40" height="32">
+                                <use xlink:href="#bootstrap"></use>
+                            </svg>
+                        </a>
+
+                        <h2 style="color: #0275d8	;">TANMOY GANGULY</h2>
+
+
+
+
+
+
+
+
+
+                        <p>This site is the online home for the computer science engineering student. Here you can learn
+                            more about Tanmoy and both his general-audience
+                            and academic writing. You can also browse and subscribe to his long-running weekly
+                            essay series. For more on Tanmoy's Blogs, videos, please visit
+                            his media portal, <a href="https://blog.tanmoyganguly.in/" target="_blank"
+                                rel="noreferrer noopener"
+                                aria-label="TheDeepLife.com, opens a new window">blog.tanmoyganguly.in <i
+                                    class="anww-external-link-icon" aria-hidden="true"></i></a>.</p>
+                    </div>
+
+                    <div class="col">
+
+                    </div>
+
+                    <div class="col">
+                    <h5>Section</h5>
+                    <ul class="nav flex-column">
+                      <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                      <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                      <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                      <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                      <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                    </ul>
+                  </div>
+
+                    <div class="col">
+                        <h5>CONTACT INFO</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Academic
+                                    Communication</a> <a
+                                    href="mailto:tanmoygangulyofficial@outlook.com">tanmoygangulyofficial@outlook.com</a>
+                            </li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Project
+                                    Inquires</a> <a href="mailto:xanmoy@outlook.com">xanmoy@outlook.com</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Work</a><a
+                                    href="https://tanmoyganguly.in/index.php/contact/">See
+                                    Contact Page</a></li>
+                        </ul>
+                    </div>
+
+
+                    <div class="col">
+                        <h5>QUICK LINKS</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="https://blog.tanmoyganguly.in"
+                                    class="nav-link p-0">Blog</a></li>
+                            <li class="nav-item mb-2"><a href="https://forum.tanmoyganguly.in"
+                                    class="nav-link p-0">Forum</a></li>
+                            <li class="nav-item mb-2"><a href="https://dev.tanmoyganguly.in"
+                                    class="nav-link p-0">Open-source</a></li>
+                        </ul>
+                    </div>
+
+                </footer>
+            </div>
+        </div>
+    </section>
+
+
+    <form id="contactForm" data-sb-form-api-token="API_TOKEN" style="background-color: #1C1C1E;"
+                        action="mailto:xanmoy@outlook.com">
+                        <!-- Name input-->
+                        <div class="form-floating mb-3 rounded" style="background-color: #1C1C1E;">
+                            <input class="form-control rounded" style="background-color: #1C1C1E;" id="name" type="text"
+                                placeholder="Enter your name..." data-sb-validations="required" />
+                            <label for="name">Full name</label>
+                            <div class="invalid-feedback" data-sb-feedback="name:required"
+                                style="background-color: #1C1C1E;">A name is required.</div>
+                        </div>
+                        <!-- Email address input-->
+                        <div class="form-floating mb-3">
+                            <input class="form-control rounded" style="background-color: #1C1C1E;" id="email"
+                                type="email" placeholder="name@example.com" data-sb-validations="required,email" />
+                            <label for="email">Email address</label>
+                            <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+                            <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                        </div>
+                        <!-- Phone number input-->
+                        <div class="form-floating mb-3">
+                            <input class="form-control rounded" style="background-color: #1C1C1E;" id="phone" type="tel"
+                                placeholder="(123) 456-7890" data-sb-validations="required" />
+                            <label for="phone">Phone number</label>
+                            <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.
+                            </div>
+                        </div>
+                        <!-- Message input-->
+                        <div class="form-floating mb-3" style="color: #fefaf6; background-color: #111;">
+                            <textarea class="form-control rounded" id="message" type="text"
+                                placeholder="Enter your message here..."
+                                style="height: 10rem; background-color: #1C1C1E;"
+                                data-sb-validations="required"></textarea>
+                            <label for="message">Message</label>
+                            <div class="invalid-feedback" data-sb-feedback="message:required"
+                                style="background-color: #1C1C1E;">A message is required.
+                            </div>
+                        </div>
+                        <!-- Submit success message-->
+                        <!---->
+                        <!-- This is what your users will see when the form-->
+                        <!-- has successfully submitted-->
+                        <div class="d-none" id="submitSuccessMessage">
+                            <div class="text-center mb-3">
+                                <div class="fw-bolder">Form submission successful!</div>
+
+                                <br />
+                                <a href="#">Thank You</a>
+                            </div>
+                        </div>
+                        <!-- Submit error message-->
+                        <!---->
+                        <!-- This is what your users will see when there is-->
+                        <!-- an error submitting the form-->
+                        <div class="d-none" id="submitErrorMessage">
+                            <div class="text-center text-danger mb-3">Error sending message!</div>
+                        </div>
+                        <!-- Submit Button-->
+                        <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Send</button>
+                    </form>
